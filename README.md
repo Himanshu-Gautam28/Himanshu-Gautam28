@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gautam</h1>
-<div align="center"
+<div align="center">
 <img src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244">
 
 <h3 align="center">A passionate Data Analyst developer from India</h3>
