@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm Himanshu Gautam</h1>
+# Hi 👋, I'm Himanshu Gautam
 <div align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif">
+<img 
+  src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif">
 
-<h3 align="center">A passionate Data Analyst developer from India</h3>
+<h3>A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-gautam28&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-gautam28" /> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=himanshu-gautam28&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-gautam28" />
+  </p>
+  
+</div>
+
+
+## About Me
 
 - 🔭 I’m currently working on **Python**
 
